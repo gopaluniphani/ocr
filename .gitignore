@@ -1,0 +1,14 @@
+ocr/data/
+ocr/src/__pycache__/
+ocr/src/data/
+ocr/model/checkpoint
+ocr/model/snapshot-*
+notes/
+*.so
+*.pyc
+.idea/
+dump/
+*.pyc
+out/*.png
+segmentation/src/__pycache__/
+.vscode
